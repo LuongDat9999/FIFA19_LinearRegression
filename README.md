@@ -36,5 +36,7 @@ Dự án sử dụng mô hình hồi quy tuyến tính để xây dựng mô hì
 - Khám phá dữ liệu: phân tích phân phối, tương quan giữa các biến.
 - Huấn luyện mô hình: sử dụng Linear Regression đơn giản – chọn biến đầu vào phù hợp.
 - Đánh giá hiệu suất: R² (độ phù hợp), MSE (Sai số bình phương trung bình), và trực quan hóa kết quả.
-
+ ---
+ ### Dataset link:
+ Kaggle: https://www.kaggle.com/datasets/javagarm/fifa-19-complete-player-dataset/data
   
